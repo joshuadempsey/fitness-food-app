@@ -1,5 +1,7 @@
 # fitness-food-app
 
+A simple User Interface for a food calorie app written with Nuxt and Tailwind
+
 ## Build Setup
 
 ```bash
