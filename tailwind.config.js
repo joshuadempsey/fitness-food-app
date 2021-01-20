@@ -20,7 +20,8 @@ module.exports = {
             pink: colors.pink,
             gray: colors.trueGray,
             teal: colors.teal,
-            cyan: colors.cyan
+            cyan: colors.cyan,
+            green: colors.green
         },
 
         fontFamily: {
