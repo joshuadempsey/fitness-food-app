@@ -7,7 +7,8 @@ export const state = () => ({
             description: "Scottish Salmon with mixed vegetables",
             userImage: "1.jpeg",
             type: [{ title: "main meal" }],
-            likes: 27
+            likes: 27,
+            posted: "22m"
         },
         {
             id: 1,
@@ -17,7 +18,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "2.jpeg",
             type: [{ title: "snack" }],
-            likes: 35
+            likes: 35,
+            posted: "27m"
         },
         {
             id: 2,
@@ -27,7 +29,8 @@ export const state = () => ({
             description: "Organic mixed salad with ceasar dressing",
             userImage: "7.jpeg",
             likes: 19,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "35m"
         },
         {
             id: 3,
@@ -40,7 +43,8 @@ export const state = () => ({
             type: [
                 { id: 0, title: "cheat day" },
                 { id: 1, title: "best of British" }
-            ]
+            ],
+            posted: "45m"
         },
         {
             id: 4,
@@ -50,7 +54,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "5.jpeg",
             likes: 48,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "47m"
         },
         {
             id: 5,
@@ -60,7 +65,8 @@ export const state = () => ({
             description: "Smashed avocado and gourmet poached eggs",
             userImage: "6.jpeg",
             likes: 135,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "1h"
         },
         {
             id: 6,
@@ -70,7 +76,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "3.jpeg",
             likes: 11,
-            type: [{ title: "snack" }]
+            type: [{ title: "snack" }],
+            posted: "1h"
         },
         {
             id: 7,
@@ -80,7 +87,8 @@ export const state = () => ({
             description: "A mixed continental ham and cheese platter",
             userImage: "8.jpeg",
             likes: 23,
-            type: [{ title: "cheat day" }]
+            type: [{ title: "cheat day" }],
+            posted: "1h"
         },
         {
             id: 0,
@@ -90,7 +98,8 @@ export const state = () => ({
             description: "Scottish Salmon with mixed vegetables",
             userImage: "1.jpeg",
             type: [{ title: "main meal" }],
-            likes: 27
+            likes: 27,
+            posted: "2h"
         },
         {
             id: 1,
@@ -100,7 +109,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "2.jpeg",
             type: [{ title: "snack" }],
-            likes: 35
+            likes: 35,
+            posted: "2h"
         },
         {
             id: 2,
@@ -110,7 +120,8 @@ export const state = () => ({
             description: "Organic mixed salad with ceasar dressing",
             userImage: "7.jpeg",
             likes: 19,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "3h"
         },
         {
             id: 3,
@@ -123,7 +134,8 @@ export const state = () => ({
             type: [
                 { id: 0, title: "cheat day" },
                 { id: 1, title: "best of British" }
-            ]
+            ],
+            posted: "3h"
         },
         {
             id: 4,
@@ -133,7 +145,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "5.jpeg",
             likes: 48,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "4h"
         },
         {
             id: 5,
@@ -143,7 +156,8 @@ export const state = () => ({
             description: "Smashed avocado and gourmet poached eggs",
             userImage: "6.jpeg",
             likes: 135,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "4h"
         },
         {
             id: 6,
@@ -153,7 +167,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "3.jpeg",
             likes: 11,
-            type: [{ title: "snack" }]
+            type: [{ title: "snack" }],
+            posted: "4h"
         },
         {
             id: 7,
@@ -163,7 +178,8 @@ export const state = () => ({
             description: "A mixed continental ham and cheese platter",
             userImage: "8.jpeg",
             likes: 23,
-            type: [{ title: "cheat day" }]
+            type: [{ title: "cheat day" }],
+            posted: "4h"
         },
         {
             id: 0,
@@ -173,7 +189,8 @@ export const state = () => ({
             description: "Scottish Salmon with mixed vegetables",
             userImage: "1.jpeg",
             type: [{ title: "main meal" }],
-            likes: 27
+            likes: 27,
+            posted: "4h"
         },
         {
             id: 1,
@@ -183,7 +200,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "2.jpeg",
             type: [{ title: "snack" }],
-            likes: 35
+            likes: 35,
+            posted: "4h"
         },
         {
             id: 2,
@@ -193,7 +211,8 @@ export const state = () => ({
             description: "Organic mixed salad with ceasar dressing",
             userImage: "7.jpeg",
             likes: 19,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "5h"
         },
         {
             id: 3,
@@ -206,7 +225,8 @@ export const state = () => ({
             type: [
                 { id: 0, title: "cheat day" },
                 { id: 1, title: "best of British" }
-            ]
+            ],
+            posted: "5h"
         },
         {
             id: 4,
@@ -216,7 +236,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "5.jpeg",
             likes: 48,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "6h"
         },
         {
             id: 5,
@@ -226,7 +247,8 @@ export const state = () => ({
             description: "Smashed avocado and gourmet poached eggs",
             userImage: "6.jpeg",
             likes: 135,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "7h"
         },
         {
             id: 6,
@@ -236,7 +258,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "3.jpeg",
             likes: 11,
-            type: [{ title: "snack" }]
+            type: [{ title: "snack" }],
+            posted: "7h"
         },
         {
             id: 7,
@@ -246,7 +269,8 @@ export const state = () => ({
             description: "A mixed continental ham and cheese platter",
             userImage: "8.jpeg",
             likes: 23,
-            type: [{ title: "cheat day" }]
+            type: [{ title: "cheat day" }],
+            posted: "7h"
         },
         {
             id: 0,
@@ -256,7 +280,8 @@ export const state = () => ({
             description: "Scottish Salmon with mixed vegetables",
             userImage: "1.jpeg",
             type: [{ title: "main meal" }],
-            likes: 27
+            likes: 27,
+            posted: "8h"
         },
         {
             id: 1,
@@ -266,7 +291,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "2.jpeg",
             type: [{ title: "snack" }],
-            likes: 35
+            likes: 35,
+            posted: "8h"
         },
         {
             id: 2,
@@ -276,7 +302,8 @@ export const state = () => ({
             description: "Organic mixed salad with ceasar dressing",
             userImage: "7.jpeg",
             likes: 19,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "9h"
         },
         {
             id: 3,
@@ -289,7 +316,8 @@ export const state = () => ({
             type: [
                 { id: 0, title: "cheat day" },
                 { id: 1, title: "best of British" }
-            ]
+            ],
+            posted: "9h"
         },
         {
             id: 4,
@@ -299,7 +327,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "5.jpeg",
             likes: 48,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "9h"
         },
         {
             id: 5,
@@ -309,7 +338,8 @@ export const state = () => ({
             description: "Smashed avocado and gourmet poached eggs",
             userImage: "6.jpeg",
             likes: 135,
-            type: [{ title: "main meal" }]
+            type: [{ title: "main meal" }],
+            posted: "10h"
         },
         {
             id: 6,
@@ -319,7 +349,8 @@ export const state = () => ({
             description: "Organic Strawberries and mixed berries",
             userImage: "3.jpeg",
             likes: 11,
-            type: [{ title: "snack" }]
+            type: [{ title: "snack" }],
+            posted: "10h"
         },
         {
             id: 7,
@@ -329,7 +360,8 @@ export const state = () => ({
             description: "A mixed continental ham and cheese platter",
             userImage: "8.jpeg",
             likes: 23,
-            type: [{ title: "cheat day" }]
+            type: [{ title: "cheat day" }],
+            posted: "11h"
         }
     ]
 });

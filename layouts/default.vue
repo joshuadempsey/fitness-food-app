@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen w-full bg-gray-100">
+  <div class="min-h-screen w-full mb-20 md:mb-0">
     <navigation></navigation>
     <div class="container mx-auto mt-10 px-6">
       <div class="mx-auto">
@@ -17,7 +17,35 @@
           </div>
         </div>
       </div>
+      <div class="flex flex-col w-full h-auto my-8 justify-center items-center">
+        <h1 class="text-baseline text-gray-900 font-mont">
+          You've reached the bottom of your feed. To find more posts, you can
+          visit the explore tab or you can follow more users.
+        </h1>
+        <div class="my-3">
+          <button
+            class="bg-gradient-to-r from-teal-500 to-cyan-500 px-3 py-2 text-white font-mont rounded-full focus:outline-none focus:ring"
+          >
+            Find more users to follow
+          </button>
+        </div>
+        <div class="my-3">
+          <button
+            class="bg-gradient-to-r from-teal-500 to-cyan-500 px-3 py-2 text-white font-mont rounded-full focus:outline-none focus:ring"
+          >
+            Explore
+          </button>
+        </div>
+        <div>
+          <h4
+            class="bg-clip-text text-transparent bg-gradient-to-r from-teal-500 to-cyan-500 font-oleo text-3xl tracking-widest text-center"
+          >
+            Thanks, Fitness Food App
+          </h4>
+        </div>
+      </div>
     </div>
+    <appfooter></appfooter>
   </div>
 </template>
 <script>
