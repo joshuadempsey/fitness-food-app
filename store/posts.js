@@ -91,7 +91,7 @@ export const state = () => ({
             posted: "1h"
         },
         {
-            id: 0,
+            id: 8,
             title: "post",
             image: "salmon.jpeg",
             user: "Joshua Dempsey",
@@ -102,7 +102,7 @@ export const state = () => ({
             posted: "2h"
         },
         {
-            id: 1,
+            id: 9,
             title: "post",
             image: "berries.jpeg",
             user: "Olivia Beveridge",
@@ -113,7 +113,7 @@ export const state = () => ({
             posted: "2h"
         },
         {
-            id: 2,
+            id: 10,
             title: "post",
             image: "salad.jpeg",
             user: "Jack Darcy",
@@ -124,7 +124,7 @@ export const state = () => ({
             posted: "3h"
         },
         {
-            id: 3,
+            id: 11,
             title: "post",
             image: "burger.jpeg",
             user: "Ruth Thomson",
@@ -138,7 +138,7 @@ export const state = () => ({
             posted: "3h"
         },
         {
-            id: 4,
+            id: 12,
             title: "post",
             image: "cheeseveg.jpeg",
             user: "Mairi Gibson",
@@ -149,7 +149,7 @@ export const state = () => ({
             posted: "4h"
         },
         {
-            id: 5,
+            id: 13,
             title: "post",
             image: "avocado.jpeg",
             user: "James Brand",
@@ -160,7 +160,7 @@ export const state = () => ({
             posted: "4h"
         },
         {
-            id: 6,
+            id: 14,
             title: "post",
             image: "mix.jpeg",
             user: "Rachel Lane",
@@ -171,7 +171,7 @@ export const state = () => ({
             posted: "4h"
         },
         {
-            id: 7,
+            id: 15,
             title: "post",
             image: "platter.jpeg",
             user: "Clive Rutherford",
@@ -182,7 +182,7 @@ export const state = () => ({
             posted: "4h"
         },
         {
-            id: 0,
+            id: 16,
             title: "post",
             image: "salmon.jpeg",
             user: "Joshua Dempsey",
@@ -193,7 +193,7 @@ export const state = () => ({
             posted: "4h"
         },
         {
-            id: 1,
+            id: 17,
             title: "post",
             image: "berries.jpeg",
             user: "Olivia Beveridge",
@@ -204,7 +204,7 @@ export const state = () => ({
             posted: "4h"
         },
         {
-            id: 2,
+            id: 18,
             title: "post",
             image: "salad.jpeg",
             user: "Jack Darcy",
@@ -215,7 +215,7 @@ export const state = () => ({
             posted: "5h"
         },
         {
-            id: 3,
+            id: 19,
             title: "post",
             image: "burger.jpeg",
             user: "Ruth Thomson",
@@ -229,7 +229,7 @@ export const state = () => ({
             posted: "5h"
         },
         {
-            id: 4,
+            id: 20,
             title: "post",
             image: "cheeseveg.jpeg",
             user: "Mairi Gibson",
@@ -240,7 +240,7 @@ export const state = () => ({
             posted: "6h"
         },
         {
-            id: 5,
+            id: 21,
             title: "post",
             image: "avocado.jpeg",
             user: "James Brand",
@@ -251,7 +251,7 @@ export const state = () => ({
             posted: "7h"
         },
         {
-            id: 6,
+            id: 22,
             title: "post",
             image: "mix.jpeg",
             user: "Rachel Lane",
@@ -262,7 +262,7 @@ export const state = () => ({
             posted: "7h"
         },
         {
-            id: 7,
+            id: 23,
             title: "post",
             image: "platter.jpeg",
             user: "Clive Rutherford",
@@ -273,7 +273,7 @@ export const state = () => ({
             posted: "7h"
         },
         {
-            id: 0,
+            id: 24,
             title: "post",
             image: "salmon.jpeg",
             user: "Joshua Dempsey",
@@ -284,7 +284,7 @@ export const state = () => ({
             posted: "8h"
         },
         {
-            id: 1,
+            id: 25,
             title: "post",
             image: "berries.jpeg",
             user: "Olivia Beveridge",
@@ -295,7 +295,7 @@ export const state = () => ({
             posted: "8h"
         },
         {
-            id: 2,
+            id: 26,
             title: "post",
             image: "salad.jpeg",
             user: "Jack Darcy",
@@ -306,7 +306,7 @@ export const state = () => ({
             posted: "9h"
         },
         {
-            id: 3,
+            id: 27,
             title: "post",
             image: "burger.jpeg",
             user: "Ruth Thomson",
@@ -320,7 +320,7 @@ export const state = () => ({
             posted: "9h"
         },
         {
-            id: 4,
+            id: 28,
             title: "post",
             image: "cheeseveg.jpeg",
             user: "Mairi Gibson",
@@ -331,7 +331,7 @@ export const state = () => ({
             posted: "9h"
         },
         {
-            id: 5,
+            id: 29,
             title: "post",
             image: "avocado.jpeg",
             user: "James Brand",
@@ -342,7 +342,7 @@ export const state = () => ({
             posted: "10h"
         },
         {
-            id: 6,
+            id: 30,
             title: "post",
             image: "mix.jpeg",
             user: "Rachel Lane",
@@ -353,7 +353,7 @@ export const state = () => ({
             posted: "10h"
         },
         {
-            id: 7,
+            id: 31,
             title: "post",
             image: "platter.jpeg",
             user: "Clive Rutherford",

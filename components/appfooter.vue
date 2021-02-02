@@ -1,8 +1,8 @@
 <template>
   <div>
     <footer class="hidden md:flex bg-gray-900 w-full h-auto">
-      <div class="p-4">
-        <p class="font-mont text-white">
+      <div class="p-4 w-full">
+        <p class="font-mont text-white lg:text-center">
           This was made to showcase my HTML/CSS skills and was built with Nuxt
           JS. It's fully responsive. If there's any questions please ask or
           email me at josh@joshdempsey.co.uk. Thanks for looking
